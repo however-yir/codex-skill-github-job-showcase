@@ -1,5 +1,10 @@
 # github-job-showcase
 
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](./SKILL.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](./LICENSE)
+[![Public Repo](https://img.shields.io/badge/Repo-Public-2563eb?style=flat-square)](https://github.com/however-yir/codex-skill-github-job-showcase)
+[![Last Commit](https://img.shields.io/github/last-commit/however-yir/codex-skill-github-job-showcase?style=flat-square)](https://github.com/however-yir/codex-skill-github-job-showcase/commits/main)
+
 > Turn raw repositories into clearer README, portfolio, and interview-ready project showcases.
 
 中文简介：这是一个面向 GitHub 项目包装的 Codex skill，适合把原始仓库整理成更适合求职、面试、作品集展示的 README、项目亮点和表达材料。
