@@ -1,7 +1,5 @@
 # github-job-showcase
 
-[English](./README.md)
-
 > Turn raw repositories into clearer README, portfolio, and interview-ready project showcases.
 
 中文简介：这是一个面向 GitHub 项目包装的 Codex skill，适合把原始仓库整理成更适合求职、面试、作品集展示的 README、项目亮点和表达材料。
